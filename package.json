@@ -1,0 +1,19 @@
+{
+  "name": "@huakunshen/break_line",
+  "version": "1.0.2",
+  "main": "break_line.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Huakun Shen",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuakunShen/break_lines.git"
+  },
+  "bugs": {
+    "url": "https://github.com/HuakunShen/break_lines/issues"
+  },
+  "homepage": "https://github.com/HuakunShen/break_lines#readme",
+  "description": ""
+}
