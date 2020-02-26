@@ -1,19 +1,19 @@
 {
-  "name": "@huakunshen/break_line",
-  "version": "1.0.2",
-  "main": "break_line.js",
+  "name": "replace-new-lines",
+  "version": "1.0.0",
+  "description": "",
+  "main": "replace_new_lines.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Huakun Shen",
-  "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HuakunShen/break_lines.git"
+    "url": "git+https://github.com/HuakunShen/replace-new-lines.git"
   },
+  "author": "Huakun Shen",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HuakunShen/break_lines/issues"
+    "url": "https://github.com/HuakunShen/replace-new-lines/issues"
   },
-  "homepage": "https://github.com/HuakunShen/break_lines#readme",
-  "description": ""
+  "homepage": "https://github.com/HuakunShen/replace-new-lines#readme"
 }
